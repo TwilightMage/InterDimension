@@ -15,7 +15,8 @@ const item_list = [
     "mekanism:qio_drive_supermassive",
 
     // no need in this modpack?
-    "sophisticatedbackpacks:indeption_upgrade"
+    "sophisticatedbackpacks:indeption_upgrade",
+    "mekanism:module_attack_amplification_unit",
 ]
 
 server('ServerEvents.recipes', (ctx) => {
